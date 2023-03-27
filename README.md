@@ -3,9 +3,10 @@
 
 ## Установка
 
-1. Установить пакет openai (pip install openai)
-2. Запустить первый раз
-3. После первого запуска в `options/plugin_boltalka_openai.json` установить API ключ OpenAI
+1. Скопировать `plugin_boltalka_openai.py` в plugins
+2. Установить пакет openai (pip install openai)
+3. Запустить Ирину первый раз
+4. После первого запуска в `options/plugin_boltalka_openai.json` установить API ключ OpenAI
 
 ## Использование
 Команда "ирина поболтаем" или "ирина поговорим"
